@@ -31,7 +31,7 @@ int shouldRunList[] = {
 };
 
 Step six:
-Open the c file using a compiler, if you are a newbie like me who has only used Python, use https://www.jetbrains.com/clion/ and get a 30-day trial because configuring the environment is too confusing (I'm not sponsored or anything) 30 days should be enough for you to just getting some fun.
+Open the c file using a compiler, if you are a newbie like me who has only used Python, use https://www.jetbrains.com/clion/ and get a 30-day trial because configuring the environment is too confusing (I'm not sponsored or anything) 30 days should be enough for you to just getting some fun & there's no need to credit card credentials or anything.
 
 Step seven:
 When it's ready, replace the int shouldRunList[] with your own code from Python output, and run to see the result in task manager! 
