@@ -43,6 +43,7 @@ For critics:
 GET OUTTA HERE! YOU ARE NOT WELCOMED HERE! I PUT THE DEMO PICS JUST TO SHOW THAT IT WORKS, STOP POINTING AT RANDOM PLACES SAYING THAT I'M FAKE! BEFORE YOU COME AND SCREAM LIKE A BABY, RUN MY DAMN CODE! I DON'T KNOW NOTHING ABOUT SUPPORT ON CERTAIN HARDWARE / VERSIONS OF WINDOWS (although it should work on at least Windows 10 and 11) but I make no promises. I DON'T CARE IF YOU SAY IT'S TOO JUNKY AND FIZZY CUZ UR NOT MY BOSS AND I AIN'T GETTING PAID, SHUT UP! 
 
 My code is under Creative Common or whatever, you guys are free to use it, modify it, and repost it and stuff, just keep a note somewhere of the og guy -tomiwebpro and all it's fine. 
+I am not responsible for any damage it might propose to the software and hardware of your system, use it under your responsibility. 
 
 My rig (I dunno why you want it):
 2x Intel Xeon 2680v4 (28c 56t @2.4Ghz)
